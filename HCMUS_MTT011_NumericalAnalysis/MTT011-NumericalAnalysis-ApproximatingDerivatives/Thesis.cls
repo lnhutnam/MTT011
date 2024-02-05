@@ -6,7 +6,9 @@
 
 \LoadClassWithOptions{report}
 \ProvidesClass{Thesis}
-\usepackage[utf8]{vietnam}
+
+% \usepackage[utf8]{vietnam}
+\usepackage[vietnamese]{babel}
 
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\Z}{\mathhb{Z}}
