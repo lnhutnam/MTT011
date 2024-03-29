@@ -6,9 +6,7 @@
 
 \LoadClassWithOptions{report}
 \ProvidesClass{Thesis}
-
-% \usepackage[utf8]{vietnam}
-\usepackage[vietnamese]{babel}
+\usepackage[utf8]{vietnam}
 
 \newcommand{\R}{\mathbb{R}}
 \newcommand{\Z}{\mathhb{Z}}
@@ -139,6 +137,7 @@ textfont=it]{caption}
 \newtheorem{lemma}{Bổ đề}
 \newtheorem{prop}{Mệnh đề}
 \newtheorem{prob}{Bài toán}
+\newtheorem{coro}{Hệ quả}
 
 \newcommand\refs{
 	\chapter*{TÀI LIỆU THAM KHẢO}%
